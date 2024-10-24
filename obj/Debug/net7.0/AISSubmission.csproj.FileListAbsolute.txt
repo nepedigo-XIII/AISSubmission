@@ -1,0 +1,14 @@
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\AISSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\AISSubmission.AssemblyInfoInputs.cache
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\AISSubmission.AssemblyInfo.cs
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\AISSubmission.csproj.CoreCompileInputs.cache
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\bin\Debug\net7.0\AISSubmission.exe
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\bin\Debug\net7.0\AISSubmission.deps.json
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\bin\Debug\net7.0\AISSubmission.runtimeconfig.json
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\bin\Debug\net7.0\AISSubmission.dll
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\bin\Debug\net7.0\AISSubmission.pdb
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\AISSubmission.dll
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\refint\AISSubmission.dll
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\AISSubmission.pdb
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\AISSubmission.genruntimeconfig.cache
+C:\Users\chock\Desktop\dry-dock\aisPlasticChallenge\AISSubmission\obj\Debug\net7.0\ref\AISSubmission.dll
